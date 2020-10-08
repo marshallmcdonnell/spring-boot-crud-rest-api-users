@@ -1,4 +1,6 @@
-![Build](https://github.com/marshallmcdonnell/spring-boot-crud-rest-api-users/workflows/Java%20CI%20with%20Maven/badge.svg)
+| CI | License |
+|----|---------|
+| [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fmarshallmcdonnell%2Fspring-boot-crud-rest-api-users%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/marshallmcdonnell/spring-boot-crud-rest-api-users/goto?ref=master) | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 
 # Spring Boot CRUD REST API Example for Users
 
