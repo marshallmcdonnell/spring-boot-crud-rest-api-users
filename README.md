@@ -1,3 +1,5 @@
+![Build](https://github.com/marshallmcdonnell/spring-boot-crud-rest-api-users/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # Spring Boot CRUD REST API Example for Users
 
 This is my example project for a Spring Boot REST API for a CRUD-style application.
