@@ -1,6 +1,7 @@
 # Spring Boot CRUD REST API Example for Users
 
 This is my example project for a Spring Boot REST API for a CRUD-style application.
+
 It follows [Gabriel Pulga's blog tutorial](https://medium.com/swlh/building-a-crud-restful-api-web-service-with-spring-boot-a4f29edfbcd3).
 
 ## Getting Started
